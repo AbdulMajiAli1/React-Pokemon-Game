@@ -1,0 +1,15 @@
+.Pokegame {
+    margin-top: 15px;
+}
+
+.Pokegame_winner {
+    color: rgb(13, 167, 13);
+    font-weight: 700;
+    font-size: 1.6rem;
+}
+
+.Pokegame_loser {
+    color: rgb(196, 48, 80);
+    font-weight: 700;
+    font-size: 1.6rem;
+}

@@ -1,0 +1,16 @@
+.Pokedata_cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Pokedata_data {
+    text-align: center;
+    margin-top: 18px;
+}
+
+.Pokedata_data_exp {
+    display: block;
+    font-size: 1rem;
+    font-weight: 500;
+}
